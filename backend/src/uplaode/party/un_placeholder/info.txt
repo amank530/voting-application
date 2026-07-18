@@ -1,0 +1,1 @@
+This folder contains secure simulated documents for registered political party uploads, grouped by unique identity.
