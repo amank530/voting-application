@@ -1,6 +1,6 @@
 {
   "name": "Election Management and Voting Platform",
   "description": "A secure full-stack simulation of the Election Commission of India's administrative and voting workflow, featuring multi-level elections, role-based controls, candidate registration codes, live dashboards, and verification systems.",
-  "requestFramePermissions": [],
+  "requestFramePermissions": ["camera"],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
